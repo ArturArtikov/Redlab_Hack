@@ -2,7 +2,15 @@ import streamlit as st
 import pandas as pd
 
 st.write("""
-# Web response
+## Графики выбросов в временных рядах
+График данных для каждой из метрик представлен в виде ярко зеленого цвета,
+за выбросы отвечает фиолетовый график.
+В области скачков фиолетового графика (резкое падение вниз) и находятся
+выбросы в данных.
+""")
+
+st.write("""
+## Web response
 График метрики **web response**
 """)
 
@@ -17,7 +25,7 @@ st.line_chart(
 
 
 st.write("""
-# Throughput
+## Throughput
 График метрики **throughput**
 """)
 
@@ -32,7 +40,7 @@ st.line_chart(
 
 
 st.write("""
-# Apdex
+## Apdex
 График метрики **apdex**
 """)
 
@@ -46,7 +54,7 @@ st.line_chart(
 
 
 st.write("""
-# Error
+## Error
 График метрики **error**
 """)
 
