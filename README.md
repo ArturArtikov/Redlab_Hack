@@ -66,7 +66,7 @@
 
 * [Артур Артиков](https://github.com/ArturArtikov): Капитан команды | Data Scientist
 * [Александр Зеленцов](https://github.com/CHex0K): ML-Engineer
-* [Сергей Логинов](ссылка на GitHub): Fullstack Python Developer
+* [Сергей Логинов](): Fullstack Python Developer
 
 <br/>
 
