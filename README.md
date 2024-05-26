@@ -76,5 +76,5 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/streamlit-%23FFFFFF.svg?style=for-the-badge&logo=streamlit&logoColor=DC143C)
-![Pyod](https://img.shields.io/badge/pyod-%23F7931E.svg?style=for-the-badge&logo=pyod&logoColor=white)
+![Pyod](https://img.shields.io/badge/pyod-%23FFD700.svg?style=for-the-badge&logo=pyod&logoColor=white)
 
