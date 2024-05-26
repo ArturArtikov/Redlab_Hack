@@ -2,6 +2,8 @@
 
 ## Порядок работы с кодом (для организаторов)
 
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/2_hackathon_projects/hackathon4.png" height=200 align="left"> 
+
 1. Файл **metrics_collector.tsv** необходимо использовать при работе с ноутбуком "Предобработка данных.ipynb"
 2. После работы ноутбука "Предобработка данных.ipynb", на выходе получаются датасеты **web_response.csv**, **throughput.csv**, **apdex.csv**, **error.csv** из папки ***metrics***
 3. Используем четыре файла с метриками при работе с ноутбуком "Визуализация данных.ipynb" также подгружаем в область видимости файл visualisation.py
@@ -10,13 +12,9 @@
 
 В случае вопросов можете обращаться к капитану команды Golden Path - Артикову Артур [Ссылка на его Телеграм](https://t.me/ArturArtikov)
 
-
-
 <br/>
 
-## Краткое описание
-
-<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/2_hackathon_projects/hackathon4.png" height=200 align="left"> 
+## Краткое описание 
 
 **Кейс:** Разработка модели для выявления аномалий во временном ряду
 
